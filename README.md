@@ -1,4 +1,5 @@
-![image](https://github.com/xhyabunny/project-tomotoru/assets/106491722/04f59ffa-8e5d-4f37-ba9d-14321cc095a9)
+![tomotoru-banner-1](https://github.com/xhyabunny/project-tomotoru/assets/106491722/f5f3d229-ede5-4d59-9806-53e4db096fa0)
+
 # Project Tomotoru
 > [!WARNING]
 > We have no experience on Android Applications, by the time we can only read the source code and note what we should change, so please be patient and have in count that this could delay a lot.
