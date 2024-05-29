@@ -13,5 +13,7 @@
 ### What is our task?
 > The task is to make new alternative working servers for the Tomotoru game, so we can bring it back to life finally.
 > The goal: Create alternative servers by checking the game's logistics and whats needed for it to run properly, making sure everything is compatible and working alright.
-Thank you for the attention.
--xhyabunny
+## Our team
+- [@xhyabunny](https://github.com/xhyabunny) <- Main leader, Developer, Logistics, Server maintainer 
+- [@Gabolate](https://github.com/Gabolate) <- Developer, Logistics
+- [@SanicBTW](https://github.com/SanicBTW) <- Debugging, Ideas, Logistics
