@@ -5,7 +5,7 @@
 > We have no experience on Android Applications, by the time we can only read the source code and note what we should change, so please be patient and have in count that this could delay a lot.
 
 > [!NOTE]
-> If you're able to help, Contact @bonndubz on discord.
+> If you're able to help, Contact [@bonndubz](https://discord.com/users/418502287372058645) on discord.
 
 > Utilities: ``Android Studio, Java, JADX``
 ### What is _project Tomotoru_?
